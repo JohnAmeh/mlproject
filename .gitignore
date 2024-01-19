@@ -158,3 +158,24 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+#Cloned repo for guidiance
+Remove This folder__Backup/
+
+#links and resources that might be useful
+notes.txt
+
+#Reading a textbook of similar subject but different content while going through the tutorial
+3.testbook_reading.ipynb
+
+#Do not upload aritifacts folder
+# artifacts/
+
+#Ignore the sklearn_autoex folder containing examples downloaded from: https://scikit-learn.org/stable/auto_examples/index.html
+sklearn_autoex/
+
+#Ignore derekbanas folder
+derekbanas
+
+#Ignore pytorch folder
+pytorch
