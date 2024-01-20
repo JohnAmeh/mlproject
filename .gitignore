@@ -169,13 +169,13 @@ notes.txt
 3.testbook_reading.ipynb
 
 #Do not upload aritifacts folder
-# artifacts/
+artifacts/
 
 #Ignore the sklearn_autoex folder containing examples downloaded from: https://scikit-learn.org/stable/auto_examples/index.html
 sklearn_autoex/
 
 #Ignore derekbanas folder
-derekbanas
+derekbanas/
 
 #Ignore pytorch folder
-pytorch
+pytorch/
